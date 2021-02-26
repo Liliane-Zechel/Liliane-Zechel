@@ -1,5 +1,6 @@
 <h1><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="30px">Hello my name is Liliane da Hora!</h1>
 
+<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/1b/e0/05/1be0050b393f6c4f9fe7eccfd8856a40.gif"/>
 
 
 <br>
@@ -9,9 +10,9 @@
 Hello! My name is Liliane. I'm student of System Analysis<br>
 
 <h4></b>Languages</b></h4>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></code>
 
 <br>
 
