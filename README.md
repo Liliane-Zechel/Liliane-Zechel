@@ -7,7 +7,7 @@
 
 <p>
 <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist-type-4_1f469-1f3fd-200d-1f4bb.png"/>
-Hello! My name is Liliane. I'm student of System Analysis<br>
+Hello! My name is Liliane. System Analysis<br>
 
 <h4></b>Languages</b></h4>  
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/></code>
